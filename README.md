@@ -5,7 +5,8 @@
 - Use Machine Learning to turn natural language into structured data and build models using the ATIS dataset, which contains thousands of sentences from real people interacting with a flight booking system.
 - Building a personal assistant that helps plan trips and be able to respond to questions like "are there any cheap hotels in the north of town?" by looking inside a hotels database for matching results.
 -  Build a chatbot that helps users order coffee while maintaining states.
-
+- Build Jarvis or Edith using Python but only works with earphones.
+- Does not work with blurtooth headphones
 
 
 Technologies: Python,spaCy, scikit-learn, and rasa NLU
